@@ -22,5 +22,6 @@ public class MyResource {
     public String getIt() {
         return "Got it!";
     }
+// public void to process
 }
 int a=10;
