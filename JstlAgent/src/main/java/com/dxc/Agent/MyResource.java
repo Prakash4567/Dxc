@@ -24,3 +24,4 @@ public class MyResource {
     }
 // public void to process
 }
+int a=10;
